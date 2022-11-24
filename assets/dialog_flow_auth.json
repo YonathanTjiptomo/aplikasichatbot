@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "mystic-centaur-369514",
+  "private_key_id": "6eb8b1a055e00ca328a6c277c74ba80981367bd8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQChLtXN4sL+XUUm\n+shV1zOsbsYncd7RcOri+/umzSnyM8756oQ2UVOUxQHAWnIRgDHhrnd+d+UbmzHK\nnTdj7tW/cql35yrPXDVdGmYhNNNhHJfN/xdXkMqYEoyDCLfOoT+4frCiIqLhEftr\nsVFJ1+TAv+SMYO/Wq9fsSNgLZ3m2MKoZKQ2PLzBPWzyUQWe+VypVLS2NwuVsaslA\nFM/neuhjvIL0BxwKbZUbcym8RAn60pOX9S05IC6H6aQeeRRF5gkAozt9TmNoI3kv\nAFCvrbEb3tvSyoO/zF8Kck7je9LSboK6ZkUJJeCFO8QYP388nmSC3y9j358bVWd9\np5ub6M/xAgMBAAECggEASAZ7QPjbRLoeDCiVfBJhw2RuxLKULIgmVg7e6a8VVudC\nzpe2w+T8keak/TUNcveTkrMZL5jY9siXa+BsH4pa1qWgx/UzQp0ENZn12FHYQTV7\nOnCKmDUZ6vGi+2zaYgnZRRLL0G/k0+lqrbl7RyGj1WQKd5ZbplR89NeqPxJap4gK\n4hzEAYYQUnhy1wGs7sn/juUNPKCrUUTmI1MiD3Ktb+5/qlpEBIH+EFownAa1w+Ae\n9584w2fZAtQjwNV1+tTc12tIwNQTcqrb6Y4qb0pPqU5M2nMtty6E3gOaTVGrIERz\nPOwbW5XTEhTS2/XWabFQ/4+M0Wpt7J6otRrrSmlUBwKBgQDRXCcwruCdt1dBuOaH\nvtHGS5Ta4sNVIIvyAB24fpD4omeBgb9cIyIgPSruxGRsphULJcOf1XYIB4qxHlmm\nT7g+0LEkj2REds/3WwiI8qR0wT2NtU5c7aBcmp4Ms0bF8j/xq+MGCrVWuQJUBsuq\nyErYblk/zDaJZkTTec/TPf32NwKBgQDFFyKvqrdkxTqOD2kfzGjyeiv70KCEe5Rw\nKLk2D6/c+1iDt+PAhrALbel2ulJU2rEw+wgizYGPUc7OGkwipX3X20hqPm4Lq3ur\nXTar1fpWFE4KaylyVN5qOGdbs337OQaXcYifwI+kxUM97by7IUMp9SUiH4TmkFUG\nnlXOSm1XFwKBgCH8ksQdb4tK6xhZOttIh+dn96c87rbQDMfhavG7Yi9qteDZPkZn\n0a9oHqMaMK9OmtXvcH1u+rU8/C/anHUaNe/Eky07NezDWOlv1sfclAP8JtDtYOZH\nESRXWVb4d4HE3MqPu9AMRvnoGM+pNsDnuPa/my93KFdPydaGzM0fIC4rAoGBAITw\nNwBAaVU6R2W89U5yhTNQvswqi6rw5E3G2i6h5CBtFOY7qg6ZirMa3werY49Ct5Pv\nLyyyazptls2kJUiVUc3AZhbrpzSN5WvQAuli+mkHZyBV6e3pWuBQzT6oUkiazVxn\nQx1mOD2OpO1npw6dv/zUEsjyc6VFI2TEdeIgh6HfAoGBALZcE1s1ZXecGpk3aUhk\n9B69wqW0L3jZURR35NIG+3miGFTCDCgG4T7QExmSr0CrMOsDCCaGoohtBB2eZf1h\nkBnqbMpfzb5cCEoVREL5zqZMnEa2ZRDF7WqwfsYydPWJHwtMXnHLIBUo/JH9BfgH\nSX1P97Qn0uByGTxyuLgnBzyt\n-----END PRIVATE KEY-----\n",
+  "client_email": "yonathan@mystic-centaur-369514.iam.gserviceaccount.com",
+  "client_id": "103688829205254658554",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/yonathan%40mystic-centaur-369514.iam.gserviceaccount.com"
+}
